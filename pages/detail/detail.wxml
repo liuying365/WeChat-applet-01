@@ -1,0 +1,14 @@
+<!--pages/detail/detail.wxml-->
+<image src='/images/banner_01.jpg' class='banner'></image>
+title: {{ title }}
+<view class='type'>{{title}}</view>
+
+<view class='introduction block'>
+  <view class='title'>产品介绍</view>
+  <text class='description'>关于我们关于我们关于我们关于我们关于我们关于我们</text>
+</view>
+
+<view class='illustrate block'>
+  <view class='title'>产品说明</view>
+  <text class='description'>关于我们关于我们关于我们关于我们关于我们关于我们</text>
+</view>

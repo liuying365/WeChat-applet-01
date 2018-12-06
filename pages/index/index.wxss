@@ -1,0 +1,43 @@
+/**index.wxss**/
+.product {
+  height: 210rpx;
+  border-bottom: 1rpx solid #e0e0e0;
+}
+.main {
+  width: 100%;
+  height: 200rpx;
+  padding-left: 200rpx;
+}
+
+.title {
+  font-size: 34rpx;
+  color: #212121;
+}
+
+.description {
+  height: 92rpx;
+  color: #9a9a9a;
+  font-size: 30rpx;
+  white-space: pre-wrap;
+}
+
+.btns image {
+  width: 180rpx;
+  height: 60rpx;
+}
+
+.check-detial {
+  margin-right: 12rpx;
+}
+
+.aside {
+  width: 190rpx;
+  height: 190rpx;
+  margin-top: -190rpx;
+  margin-right: 10rpx;
+}
+
+.aside image {
+  width: 100%;
+  height: 100%;
+}
